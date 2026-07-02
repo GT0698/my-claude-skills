@@ -8,7 +8,7 @@
 
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-Skills-6C4AB6?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Codex](https://img.shields.io/badge/Codex-Compatible-1f6feb?style=for-the-badge&logo=openai&logoColor=white)
-![Skills](https://img.shields.io/badge/skills-1-0f7b57?style=for-the-badge)
+![Skills](https://img.shields.io/badge/skills-2-0f7b57?style=for-the-badge)
 
 </div>
 
@@ -19,6 +19,7 @@
 | Skill | 作用 | 触发语 |
 |-------|------|--------|
 | [**vibe-coding-prd**](vibe-coding-prd/) | 把需求 / 原始 PRD / 竞品分析提炼成可直接发给编码 Agent 的 vibe coding PRD | 「帮我写一个用来 vibe coding 的 PRD」 |
+| [**study-notes**](study-notes/) | 把老师的课件（飞书 / PPT / PDF）整理成结构化课堂笔记，直接产出到飞书 | 「把这个课件整理成课堂笔记」 |
 
 > 后续新增的 skill 会在这里追加一行。
 
