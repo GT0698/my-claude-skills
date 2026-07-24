@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI 产品设计维护"
+  short_description: "同步课件与课堂笔记，复盘并更新 AI 产品设计方法论"
+  default_prompt: "使用 $ai-product-design-maintainer 对照课件和笔记，审计并更新 AI 产品设计 Skill。"
